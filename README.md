@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Generic-FTR-headers_V10-1920x733.jpg" alt="Alt text" width="900"/>
+</p>
+
 # Sentiment Analysis of Spotify Reviews
 
 This project analyzes user reviews of the Spotify app using Natural Language Processing (NLP) and Machine Learning (ML). The dataset contains user feedback labeled as either **POSITIVE** or **NEGATIVE**, and the goal is to classify sentiments and gain insights into user opinions about Spotify.
